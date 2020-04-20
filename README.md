@@ -1,7 +1,11 @@
 # extract-news-api
 Flask code to deploy an API to pull structured data from online news articles
 
-How to use:
+## Demo
+![](extract_image.png)
+
+
+## Quick Start
 1. Pull the repository to your local folder
 2. Create a Python virtual environment (3.6+)
 3. Activate the environment
