@@ -3,7 +3,9 @@ Flask code to deploy an API that pulls structured data from online news articles
 
 This is a source code of an API that you can find here (free plan available): https://rapidapi.com/kotartemiy/api/extract-news
 
-## Demo
+
+
+
 ![](extract_image.png)
 
 
@@ -60,6 +62,15 @@ Example of request: `http://127.0.0.1:5000/v0/article?url=https://www.nytimes.co
     }
 }
 ```
+
+## Good to use in combination with
+[newscatcher](https://github.com/kotartemiy/newscatcher)
+
+Newscatcher Python library allows you to collect normalized news from (almost) any website.
+
+[Newscatcher API](https://newscatcherapi.com/)
+
+Newscatcher API is a news API that allows you to find the most relevant news artiles by searching for any keywod. 
 
 
 ## Built with
