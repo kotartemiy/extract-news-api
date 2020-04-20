@@ -26,7 +26,8 @@ If everything is OK then you should be able to check your API on `http://127.0.0
 Example of request: `http://127.0.0.1:5000/v0/article?url=https://www.nytimes.com/2020/03/21/arts/d-nice-instagram.html`
 
 ## Example of Response Body
-`{
+``` json
+{
     "status": "ok",
     "article": {
         "source_url": "https://www.nytimes.com",
@@ -55,7 +56,8 @@ Example of request: `http://127.0.0.1:5000/v0/article?url=https://www.nytimes.co
         "text_lang": "en",
         "meta_favicon": "/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"
     }
-}`
+}
+```
 
 
 ## Built with
