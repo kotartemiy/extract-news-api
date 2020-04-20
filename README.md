@@ -1,5 +1,7 @@
 # extract-news-api
-Flask code to deploy an API to pull structured data from online news articles
+Flask code to deploy an API that pulls structured data from online news articles.
+
+This is a source code of an API that you can find here (free plan available): https://rapidapi.com/kotartemiy/api/extract-news
 
 ## Demo
 ![](extract_image.png)
