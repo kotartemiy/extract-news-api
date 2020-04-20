@@ -9,6 +9,7 @@ Flask code to deploy an API to pull structured data from online news articles
 1. Clone the repository to your local folder 
 
 `git clone https://github.com/kotartemiy/extract-news-api.git`
+
 2. Create a Python virtual environment (3.6+)
 3. Activate the environment
 4. Run `pip install -r requirements.txt`
